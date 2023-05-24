@@ -1,4 +1,5 @@
 package br.com.emaneulLap.estrutura_dados.arvore;
+
 public class Arvore {
 	public class No {
 		public No pai;
